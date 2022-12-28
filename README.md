@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boatnoodle&label=Profile%20views&color=0e75b6&style=flat" alt="boatnoodle" /> </p>
 
-- 🔭 I’m currently working on [Super Productivity App](automation-daily-life)
+- 🔭 I’m currently working on [automation-daily-life](https://github.com/boatnoodle/automation-daily-life)
 
 - 🌱 I’m currently learning **ECS, Playwright, Svelte**
 
